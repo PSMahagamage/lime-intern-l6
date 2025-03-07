@@ -1,4 +1,5 @@
 const a = 5;
-const b = 20;
+const b = 2;
 
-console.log("Sum : " , a+b)
+console.log("Sum : " , a+b);
+console.log("Sum : " , a-b);
